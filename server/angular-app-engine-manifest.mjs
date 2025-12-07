@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: 'C:/Program Files/Git/tares',
   supportedLocales: {
   "en-US": ""
 },
